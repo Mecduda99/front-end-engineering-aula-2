@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header logoText="FIAP Landing Page" />
+    <Header logoText="Dudac Landing Page" />
     <NuxtPage />
     <Footer />
   </div>
